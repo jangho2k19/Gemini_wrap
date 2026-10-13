@@ -207,3 +207,6 @@ temp/
 # Cookies and credentials
 cookies.json
 *.cookies
+ 
+test_generated_images/
+generated_images/
